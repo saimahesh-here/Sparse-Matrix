@@ -1,4 +1,5 @@
 #Sparse Matrix Representation Using Arrays in C++
+
 #Overview
 This program implements the representation of a sparse matrix using arrays. Sparse matrices contain a large number of zero elements, and storing these zeros is inefficient in terms of memory. To optimize memory usage, we store only non-zero elements along with their positions (row and column).
 
